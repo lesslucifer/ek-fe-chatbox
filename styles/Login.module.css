@@ -1,0 +1,21 @@
+.container {
+    min-height: 100vh;
+    height: 100vh;
+    padding: 0 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    padding: 1rem 0;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginFormCard {
+    padding: 1rem;
+    min-width: 20vw;
+}
